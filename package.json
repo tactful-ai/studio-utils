@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tactful-ai/studio-utils#readme",
   "devDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
